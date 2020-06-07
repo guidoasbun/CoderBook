@@ -2,7 +2,7 @@
 
 ![Project Image](https://guidoasbun.s3.amazonaws.com/CoderBook-image.png)
 
-> This is a ReadMe template to help save you time and effort.
+> ![GitHub repo size](https://img.shields.io/github/repo-size/guidoasbun/coderbook) ![GitHub](https://img.shields.io/github/license/guidoasbun/coderbook) ![GitHub last commit](https://img.shields.io/github/last-commit/guidoasbun/coderbook)
 
 ---
 
